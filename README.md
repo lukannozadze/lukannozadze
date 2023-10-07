@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukannozadze" alt="lukannozadze" /></a> </p>
 
-- 🌱 I’m currently mentoring in the Bootcamp of Oto **https://oto.bitcamp.ge/**
+- 🌱 I’m currently working at JSC OPPA as payment system specialist
 
 - 👨‍💻 All of my projects are available at [lukannozadze](https://github.com/lukannozadze)
 
