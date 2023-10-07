@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Luka Nozadze</h1>
 <h3 align="center">Front-end developer from Georgia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikanozali&label=Profile%20views&color=3f5427&style=plastic" alt="nikanoza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lukannozadzeli&label=Profile%20views&color=3f5427&style=plastic" alt="lukannozadze" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nikanoza" alt="nikanoza" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lukannozadze" alt="lukannozadze" /></a> </p>
 
 - 🌱 I’m currently mentoring in the Bootcamp of Oto **https://oto.bitcamp.ge/**
 
