@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nika Nozadze</h1>
-<h3 align="center">Software Engineer from Georgia</h3>
+<h1 align="center">Hi 👋, I'm Luka Nozadze</h1>
+<h3 align="center">Front-end developer from Georgia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikanozali&label=Profile%20views&color=3f5427&style=plastic" alt="nikanoza" /> </p>
 
